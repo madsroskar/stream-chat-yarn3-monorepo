@@ -6,5 +6,9 @@
   "repository": "https://github.com/madsroskar/stream-chat-yarn3-monorepo",
   "author": "Mads Røskar <mads.roskar@getstream.io>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "packageManager": "yarn@3.1.1",
+  "workspaces": [
+    "packages/*"
+  ]
 }
