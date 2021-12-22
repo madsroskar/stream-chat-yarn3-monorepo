@@ -1,0 +1,10 @@
+{
+  "name": "stream-chat-yarn3-monorepo",
+  "version": "1.0.0",
+  "description": "Example monorepo with yarn3+stream-chat-react-native",
+  "main": "index.js",
+  "repository": "https://github.com/madsroskar/stream-chat-yarn3-monorepo",
+  "author": "Mads Røskar <mads.roskar@getstream.io>",
+  "license": "MIT",
+  "private": true
+}
